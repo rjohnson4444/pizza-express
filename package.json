@@ -1,0 +1,31 @@
+{
+  "name": "pizza-express",
+  "version": "1.0.0",
+  "description": "A place to admire pizza",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rjohnson4444/pizza-express.git"
+  },
+  "keywords": [
+    "express",
+    "pizza",
+    "yum",
+    "casserole"
+  ],
+  "author": "Ryan Johnson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rjohnson4444/pizza-express/issues"
+  },
+  "homepage": "https://github.com/rjohnson4444/pizza-express",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
